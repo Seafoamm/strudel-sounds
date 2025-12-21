@@ -2,5 +2,10 @@
   "_base": "https://raw.githubusercontent.com/Seafoamm/strudel-sounds/main/",
   "somniloquy": ["sounds/somniloquy.m4a"],
   "happybday": ["sounds/happybday.m4a"],
-  "kbday": ["sounds/k_bday.ogg"]
+  "k_bday": ["sounds/k_bday.ogg"],
+  "filler": ["sounds/filler.m4a"],
+  "first": ["sounds/first.m4a"],
+  "leadup": ["sounds/leadup.m4a"],
+  "second": ["sounds/second.m4a"],
+  "third": ["sounds/third.m4a"]
 }
