@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/Seafoamm/strudel-sounds/main/",
   "somniloquy": ["sounds/somniloquy.m4a"],
-  "happybday": ["sounds/happybday.ogg"],
-  "kbday": ["sounds/somniloquy.m4a"]
+  "happybday": ["sounds/happybday.m4a"],
+  "kbday": ["sounds/k_bday.ogg"]
 }
